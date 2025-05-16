@@ -27,6 +27,4 @@ PageTurn is a web-based platform designed to simplify the process of buying and 
 
 ![Screenshot 2025-05-14 002422](https://github.com/user-attachments/assets/af9384af-ff89-4697-8caf-cfc0251860de)
 
-![Screenshot 2025-05-14 113508](https://github.com/user-attachments/assets/fdee41d7-7997-4049-82ce-dfee452d269d)
-
 ![Screenshot 2025-05-16 112320](https://github.com/user-attachments/assets/caa8a779-0ea3-491c-ab8d-1af9fd0e9c13)
